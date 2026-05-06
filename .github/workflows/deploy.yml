@@ -11,7 +11,7 @@ jobs:
   test:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.15pwqcc.mongodb.net
-      MONGODB_USERNAME: sun
+      MONGODB_USERNAME: maximilian
       MONGODB_PASSWORD: X34Mqtpg10D8RGTi
       PORT: 8080
 
